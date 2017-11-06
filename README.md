@@ -1,4 +1,4 @@
-# FT Headshots [![Build status](https://img.shields.io/circleci/project/Financial-Times/ftheadshots.svg)](https://circleci.com/gh/Financial-Times/ftheadshots)
+# FT Headshots
 
 This is the (new) FT headshot set for FT websites. It replaces the assets in [headshot-images](https://github.com/Financial-Times/headshot-images).
 
