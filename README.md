@@ -10,7 +10,7 @@ This is the (new) FT headshot set for FT websites. It replaces the assets in [he
 
 ## Usage
 
-If wanting to use these headshots, please read the documentation over at the [headshot-images repository](https://github.com/Financial-Times/headshot-images)
+You want to use these headshots, please read the documentation over at the [headshot-images repository](https://github.com/Financial-Times/headshot-images)
 
 
 ## Adding or modifying headshots
