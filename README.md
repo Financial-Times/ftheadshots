@@ -1,4 +1,6 @@
-:warning: DEPRECATED :warning:
+:warning: DEAD :warning:
+
+The bucket will still exist for the headshots which were uploaded in the past.
 
 # FT Headshots
 
